@@ -1,0 +1,13 @@
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\obj\Debug\netcoreapp3.1\Lab4Pt2.csprojAssemblyReference.cache
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\obj\Debug\netcoreapp3.1\Lab4Pt2.AssemblyInfoInputs.cache
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\obj\Debug\netcoreapp3.1\Lab4Pt2.AssemblyInfo.cs
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\obj\Debug\netcoreapp3.1\Lab4Pt2.csproj.CoreCompileInputs.cache
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\bin\Debug\netcoreapp3.1\Lab4Pt2.exe
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\bin\Debug\netcoreapp3.1\Lab4Pt2.deps.json
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\bin\Debug\netcoreapp3.1\Lab4Pt2.runtimeconfig.json
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\bin\Debug\netcoreapp3.1\Lab4Pt2.runtimeconfig.dev.json
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\bin\Debug\netcoreapp3.1\Lab4Pt2.dll
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\bin\Debug\netcoreapp3.1\Lab4Pt2.pdb
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\obj\Debug\netcoreapp3.1\Lab4Pt2.dll
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\obj\Debug\netcoreapp3.1\Lab4Pt2.pdb
+C:\Users\drich\Desktop\CSharp\Lab4Pt2\obj\Debug\netcoreapp3.1\Lab4Pt2.genruntimeconfig.cache

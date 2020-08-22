@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drich\\Desktop\\CSharp\\Lab4\\Lab4.csproj",
-      "projectName": "Lab4",
-      "projectPath": "C:\\Users\\drich\\Desktop\\CSharp\\Lab4\\Lab4.csproj",
+      "projectUniqueName": "C:\\Users\\drich\\Desktop\\CSharp\\Lab4Pt2\\Lab4Pt2.csproj",
+      "projectName": "Lab4Pt2",
+      "projectPath": "C:\\Users\\drich\\Desktop\\CSharp\\Lab4Pt2\\Lab4Pt2.csproj",
       "packagesPath": "C:\\Users\\drich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drich\\Desktop\\CSharp\\Lab4\\obj\\",
+      "outputPath": "C:\\Users\\drich\\Desktop\\CSharp\\Lab4Pt2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drich\\AppData\\Roaming\\NuGet\\NuGet.Config",
